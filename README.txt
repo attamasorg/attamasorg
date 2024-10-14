@@ -131,6 +131,18 @@
 										</div>
 									</div>
 								</section>
+</div>
+					</section>
+					<section>
+						<header>
+							<h3>رفع الوعي بالصدمة النفسية للوافدين من مناطق النزاعات</h3>
+							<p>
+					<video controls width="400" loop muted >
+						<source src="video/Vid01.mp4"> type="video.mp4">
+						<source src="VLC media playe" type="video.webm">
+						<source src="VLC media playe" type="video.ogg">
+				</dideo>
+
 
 						</div>
 					</section>
