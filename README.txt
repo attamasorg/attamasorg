@@ -127,17 +127,10 @@
 										<div class="gallery">
 											<a href="images/gallery/fulls/pic017.jpg" class="portrait"><img src="images/gallery/fulls/pic017.jpg" alt="" /></a>
 											<a href="images/gallery/fulls/pic018.jpg" class="portrait"><img src="images/gallery/thumbs/pic018.jpg" alt="" /></a>
-<!-- Section -->
-								<section>
-									<header>
-					<video controls >
-						<source src="video/Vid01.mp4"> type="video.mp4">
+<video controls width="400" loop muted >
+						<source src="VLC media playe/Vid01.mp4"> type="video.mp4">
 						<source src="VLC media playe" type="video.webm">
 						<source src="VLC media playe" type="video.ogg">
-									</div>
-								</section>
-
-							<!-- Section -->
 				</dideo>
 
 				<!-- Section -->
