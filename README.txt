@@ -127,10 +127,6 @@
 										<div class="gallery">
 											<a href="images/gallery/fulls/pic017.jpg" class="portrait"><img src="images/gallery/fulls/pic017.jpg" alt="" /></a>
 											<a href="images/gallery/fulls/pic018.jpg" class="portrait"><img src="images/gallery/thumbs/pic018.jpg" alt="" /></a>
-											
-										</div>
-									</div>
-								</section>
 
 					<video controls width="400" loop muted >
 						<source src="video/Vid01.mp4"> type="video.mp4">
