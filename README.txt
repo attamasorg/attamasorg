@@ -168,9 +168,7 @@
 									<h3>Heading Level 3</h3>
 									<h4>Heading Level 4</h4>
 									<h5>Heading Level 5</h5>
-									<hr />
 									<h5>Blockquote</h5>
-									<blockquote>Fringilla nisl. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan faucibus. Vestibulum ante ipsum primis in faucibus lorem ipsum dolor sit amet nullam adipiscing eu felis.</blockquote>
 									<h5>Preformatted</h5>
 									<pre><code>i = 0;
 
@@ -447,7 +445,7 @@ print 'Sorted in ' + i + ' iterations.';</code></pre>
 								</li>
 								<li>
 									<h3>هاتف </h3>
-									<a href="#"> 0995215220-0915583961 </a>
+									<a href="#">0995215220-0915583961</a>
 								</li>
 								<li>
 									<h3>العنوان </h3>
